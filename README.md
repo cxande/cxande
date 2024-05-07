@@ -26,19 +26,16 @@
 <li>
  <b>Name:</b> Alexandre</li>
 <li>
-<b>Fursona:</b> Seila Oq é isso
-</li>
-<li>
 <b>Gosta:</b> Gato e Gato Laranja
 </li>
 <li>
 <b>Pronome:</b> Ele/Dele/Gatim
 </li>
 <li>
-<b>LastFM:</b> https://encr.pw/unWHF
+<b>Arte Autoral:</b> https://pbs.twimg.com/media/F_5V3J7XsAA0Q-0?format=jpg&name=4096x4096
 </li>
 <li>
-<b>Hobbys:</b> Jogo e durmo
+<b>Hobbys:</b> Desenvolver jogos pra eu mesmo jogar
 </li>
 <li>
 <b>Insta @:</b> Alexx_xande
@@ -46,34 +43,32 @@
 <br><br><br>
 </div>
 <div>
-<h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+<h2 align="center">            ~ 📇 Conhecimentos 📇 ~</h2>
  <br>
 <p>
   <div align="center">
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+<img src="https://i.pinimg.com/originals/2b/c6/4b/2bc64bd946a5f156d0ad320dc4b1e057.gif" align="right">
   </div>
 </div>
 <div>
   <br>
-<p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
- <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
-Im also very good at writing Guides like my Yuzu Emulator Guide or writing this shit here. Literally took me Hours to write this while hearing music. Also good @ Graphics Design and trying out character animation.
+<p align="center"><img src="https://img.shields.io/badge/Miro-Green.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-blue.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/Krita-yellow.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
+ <img src="https://img.shields.io/badge/Excel-red.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>  <img src="https://img.shields.io/badge/Jira-purple.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
+Sou um cara que tem um carinho muito grande pelo mundo da arte, então seguir pelo caminho da tecnologia foi algo muito tranquilo para mim, acho interessante e confortavel desenvolver. Ainda pretendo publicar um jogo aguarde.
 </p>
 <br>
-<h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
+<h2 align="center">          
   <div align="center">
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+
   </div>
 <br>
-<p align="center">Hewe awe some of my <br>
-most used s-s-sociaw things >~< xoxox</p>
-<p align="center"><a href="https://twitter.com/PoolPartyAkali" target="_blank"><img src="https://img.shields.io/badge/PwoolPwatyAkwali%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/cozythighs" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+<p align="center">E-mail: cxande.granado@gmail.com <p align="center">insta: Alexx_xande</p>
+<p align="center"><a href="https://twitter.com/ReiKoopax" target="_blank"><img src="https://img.shields.io/badge/Alex_xandex%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> </p>
 </div>
 <br>
 <div>
-<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
-<img src="https://i.imgur.com/tzYKRfd.gif">
+<img src="https://i.imgur.com/0VKNuM8.png">
 </div>
 <hr>
 </div>
